@@ -159,7 +159,7 @@ export default function Home() {
                 height={100}
               />
             </div>
-            In the spirit of transparency and trust, which form the backbone of the blockchain industry, Open For Builders is committed to transparent financing. We adhere to a policy where all financial transactions related to our investments are recorded on-chain. This means that all funding activities we undertake can be audited and tracked in real-time on the blockchain. This level of openness and visibility enhances trust and accountability, reinforcing our commitment to uphold the highest standards of integrity. By making all financial transactions trackable, we aim to foster a culture of transparency, contributing to the much-needed shift towards responsible financing in the cryptocurrency industry. This isn&apos;t just about financial accountability - it&apos;s about setting a standard for integrity that can inspire trust and confidence in the startups we support and the broader crypto ecosystem.
+            In the spirit of transparency and trust, which form the backbone of the blockchain industry, Open For Builders is committed to transparent financing. We adhere to a policy where all financial transactions related to our investments are recorded on-chain. This level of openness and visibility enhances trust and accountability, reinforcing our commitment to uphold the highest standards of integrity. By making all financial transactions trackable, we aim to foster a culture of transparency, contributing to the much-needed shift towards responsible financing in the cryptocurrency industry.
           </div>
         </div>
       </div>
