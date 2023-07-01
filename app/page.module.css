@@ -1,6 +1,6 @@
 .hero_section {
   background-color: #1e73ed;
-  width: 100%;
+  margin: 0px;
   height: 100vh;
   display: flex;
   text-align: center;
@@ -65,7 +65,7 @@
 
 .mission_statement {
   background-color: #000000;
-  width: 100%;
+  margin: 0px;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -92,7 +92,7 @@
 
 .our_approach {
   background-color: #ffc900;
-  width: 100%;
+  margin: 0px;
   height: 100vh;
   display: flex;
   text-align: left;
@@ -120,7 +120,7 @@
 
 .problems {
   background-color: #e2442f;
-  width: 100%;
+  margin: 0px;
   height: fit-content;
   display: flex;
   text-align: left;
@@ -148,7 +148,7 @@
 
 .solutions {
   background-color: #f1f333;
-  width: 100%;
+  margin: 0px;
   height: fit-content;
   display: flex;
   text-align: left;
@@ -210,7 +210,7 @@
 
 .teams {
   background-color: #ee82ee;
-  width: 100%;
+  margin: 0px;
   height: fit-content;
   display: flex;
   text-align: left;
@@ -255,7 +255,7 @@
 
 .contact {
   background-color: #008080;
-  width: 100%;
+  margin: 0px;
   height: fit-content;
   display: flex;
   text-align: center;
@@ -303,7 +303,7 @@
 
 .social_button_text {
   color: #fbfcef;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
