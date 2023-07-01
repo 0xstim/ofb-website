@@ -5,7 +5,7 @@ import styles from './page.module.css';
 import { useRef } from 'react';
 
 export default function Home() {
-  const ref = useRef(null);
+  const ref = useRef<null | HTMLDivElement>(null);
   const handleClick = () => {
     ref.current?.scrollIntoView({behavior: 'smooth'});
   };
