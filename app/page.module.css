@@ -11,6 +11,19 @@
   padding: 0 32px 0 32px;
 }
 
+.logo_container {
+  position: relative;
+  width: 500px;
+  height: 200px;
+}
+
+@media screen and (max-width: 767px) {
+  .logo_container {
+    width: 300px;
+    height: 50px;
+  }
+ }
+
 .container {
   display: flex;
   flex-direction: column;

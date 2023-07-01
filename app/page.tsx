@@ -13,6 +13,13 @@ export default function Home() {
   return (
     <div>
       <div className={styles.hero_section}>
+        <div className={styles.logo_container}>
+          <Image
+            src="./logo-light.svg"
+            alt="logo"
+            fill={true}
+          />
+        </div>
         <h1 className={styles.slogan}>Helping builders from Ground Zero to Outer Space</h1>
         <p className={styles.tag_line}>Open For Builders is a unique funding initiative dedicated to helping startups lay a solid foundation for their future.</p>
         <button onClick={handleClick} className={styles.hero_button}>Let&apos;s go!</button>
