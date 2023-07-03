@@ -49,7 +49,7 @@ export default function Home() {
             />
           </div>
           <h1 className={styles.our_approach_header}>Our approach</h1>
-          <p className={styles.our_approach_content}>Using strategic investment and insightful guidance, Open For Builders aims to take early-stage companies from their initial vision to tangible progress, supporting not only economic advancement, but also making a lasting societal impact. As a beacon in the startup landscape, Open For Builders illuminates the way towards sustainable success, making the complex journey of business development simpler and more accessible.</p>
+          <p className={styles.our_approach_content}>Open For Builders strategically invests in early-stage companies, offering insightful guidance to navigate business development, technical implementation and make a significant societal impact.</p>
           </div>
       </div>
       <div className={styles.problems}>
@@ -65,7 +65,7 @@ export default function Home() {
                 height={100}
               />
             </div>
-            A significant issue lies with the prevalence of venture capital grifters. These actors masquerade as constructive investors but contribute little or no value to the development or success of the projects they invest in. Instead, they exploit the industry&apos;s complex dynamics and the vulnerabilities of emerging startups, skimming off considerable amounts of money and leaving these projects financially bereft and operationally hamstrung.
+            The issue of venture capital grifters, who pose as beneficial investors but contribute minimally to projects, is significant. Exploiting the complexities of the industry and vulnerabilities of startups, they drain considerable funds, leaving these initiatives financially and operationally devastated.
           </div>
           <div className={styles.card_problem}>
             <div className={styles.image_wrapper}>
@@ -76,7 +76,7 @@ export default function Home() {
                 height={100}
               />
             </div>
-            Compounding this problem is the fact that many crypto media agencies, supposed champions of promotion and growth, are not delivering on their commitments. These agencies, which are expected to enhance project visibility and create positive engagement, often charge substantial fees without providing any tangible or meaningful services in return. This unscrupulous behavior does more than just waste valuable resources; it can also stymie the development of promising projects and erode trust in the broader crypto ecosystem.
+            The problem is further exacerbated by crypto media agencies failing to fulfill their commitments, often charging high fees without delivering valuable services. This not only squanders resources but can also hinder the growth of promising projects and undermine trust in the larger crypto ecosystem.
           </div>
           <div className={styles.card_problem}>
             <div className={styles.image_wrapper}>
@@ -87,7 +87,7 @@ export default function Home() {
                 height={100}
               />
             </div>
-            Lastly, there is a glaring lack of accessible technical development resources within the industry. Startups often struggle to find and secure the technical expertise they need to drive innovative tech solutions within their projects. This scarcity not only hampers the speed and quality of tech development but also limits the capacity of these projects to truly innovate, evolve, and stand out in a competitive marketplace.
+            The industry notably lacks accessible technical development resources, leading startups to struggle in securing necessary expertise for innovative solutions. This scarcity hinders not only development speed and quality but also restricts projects&apos; potential to innovate and distinguish themselves in a competitive market.
           </div>
         </div>
       </div>
@@ -159,7 +159,7 @@ export default function Home() {
                 height={100}
               />
             </div>
-            In the spirit of transparency and trust, which form the backbone of the blockchain industry, Open For Builders is committed to transparent financing. We adhere to a policy where all financial transactions related to our investments are recorded on-chain. This level of openness and visibility enhances trust and accountability, reinforcing our commitment to uphold the highest standards of integrity. By making all financial transactions trackable, we aim to foster a culture of transparency, contributing to the much-needed shift towards responsible financing in the cryptocurrency industry.
+            Committed to the core principles of transparency and trust, Open For Builders ensures all investment-related financial transactions are tracked on the blockchain. This practice not only strengthens accountability and integrity, but also fosters a culture of openness, encouraging a shift towards responsible financing in the cryptocurrency industry.
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ export default function Home() {
           <div className={styles.card_team}>
             <div className={styles.image_wrapper}>
               <Image
-                src="./lightbulb.svg"
+                src="./0xstim.svg"
                 alt="Mission statement"
                 width={100}
                 height={100}
@@ -218,7 +218,7 @@ export default function Home() {
                 <div className={styles.social_button_text}>Twitter</div>
               </div>
             </a>
-            <a className={styles.unstyled_anchor_tag} href="https://twitter.com/openforbuilders" target="_blank" rel="noopener noreferrer">
+            <a className={styles.unstyled_anchor_tag} href="https://discord.gg/FWmqVVQZ8Q" target="_blank" rel="noopener noreferrer">
               <div className={styles.social_button}>
                 <Image
                   src="./discord.svg"
